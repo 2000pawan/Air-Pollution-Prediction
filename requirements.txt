@@ -3,3 +3,5 @@ pandas
 joblib~=1.3.2
 streamlit~=1.32.1
 pillow~=10.2.0
+fastapi
+uvicorn
